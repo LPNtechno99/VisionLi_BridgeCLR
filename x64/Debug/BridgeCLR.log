@@ -1,0 +1,4 @@
+﻿  BridgeConvert.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+     Creating library D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\bin\BridgeCLR.lib and object D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\bin\BridgeCLR.exp
+VisionLi.lib(Binaryzation.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  BridgeCLR.vcxproj -> D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\bin\BridgeCLR.dll

@@ -1,0 +1,2 @@
+D:\XLA\VisionLi\VisionLi\BridgeCLR\x64\Debug\BridgeCLR.vcxprojAssemblyReference.cache
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\BridgeCLR\x64\Debug\BridgeCLR.vcxprojAssemblyReference.cache
